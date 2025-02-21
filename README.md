@@ -1,0 +1,1 @@
+The Ray Tracer project uses python to acurrately trace vector collisions. The input file provides a list of points to collide with from the camera. The project will then produce light, shadows, and the full image.
